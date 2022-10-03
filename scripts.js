@@ -1,12 +1,6 @@
 
 $(function() {
 
-    function test_print(){
-
-        console.log('test code');
-
-    }
-
    //Get 
    $('#get-button').on('click', function() {
         //get all users' IDs & display it
